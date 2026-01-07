@@ -1,6 +1,6 @@
 ### Privacy Policy for Kumaran Nagar
 
-**Last Updated:** October 27, 2023
+**Last Updated:** January 7, 2026
 
 Welcome to Kumaran Nagar. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
 
@@ -77,7 +77,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 
-[Your Email Address Here]
-[Your Contact Address/Information Here]
+dataintellinalytics@gmail.com
+DatA Intellinalytics
 
 ---
+
